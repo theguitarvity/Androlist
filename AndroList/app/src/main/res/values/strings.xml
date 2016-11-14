@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroList</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblValor">Lembrete</string>
+    <string name="btnAdd">Adicionar</string>
+    <string name="btnDel">Excluir</string>
+</resources>

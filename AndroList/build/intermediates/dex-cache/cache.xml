@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_402bab1a2c936d08c3f3f29765c354694830ae78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_a9ef4888ad61b95c35df08897fd66a22a96eda9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b2a99df0e76fbaceacdfa590064738aeb56de346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3bf8c7b0f9692c1b5731fb3ef03d13c1a440a38d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_0da2d1a2725bfb7aa78c24018a14e9617b152793/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ad761cda40c0434132460bc60fa2aa4733d05d7">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_454ff7bb0cebc045084b7194cb1633df56769683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_c8b9bae556f2999f29b99b0da83e7ad3153a413b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_19d0ecf55c220d6e2c1bb3d4207655928216a7d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_0a229b866bbbffabb8f0670b1e807cf3f2ef6e5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_51b24bcbf2e6d35aad35e8d904131053352811cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_147a34fb0108815ab089c2d3ea5358ce6a6dd5f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_c92fbfcf68ee1eaa2d69e0ba0d29bfa64b9b4a79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c745bd8d501f19bf5713e7e8163b728c8c5afabc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5657713b42a3a1aa2107815b3d3607f7fe880525">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_369d726189c6beeae3af79a596612252663a7c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_9a6e67c2aa863be2514a35553a288e6d4ead2e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_0a3cbf904da45661714fea3f7b284c401d2b68eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_bd6b9935b39298dbb416267c50d3b58add8c4f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b3a34fc70abe116a8490b0f283740ee5952d2173/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3152a570c3229a63e4d39db5da9066f13a01e0cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/victor/AndroidStudioProjects/AndroList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_b0da2448783fc4ff61195f79732b16206ded1685/classes.dex" />
+    </item>
+
+</items>
